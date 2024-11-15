@@ -19,13 +19,44 @@ From one of the authors of "What We've Learned From A Year of Building with LLMs
 
 ## Books
 
-[LLM Engineer's Handbook](https://www.amazon.com/LLM-Engineers-Handbook-engineering-production/dp/1836200072/) October, 2024
+[LLM Engineer's Handbook by Paul Lusztin and Maxime Labonne](https://www.amazon.com/LLM-Engineers-Handbook-engineering-production/dp/1836200072/) October, 2024
 
-[AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) Work in Progress, Late 2024
+[AI Engineering by Chip Huyen](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) Work in Progress, Late 2024
+
+[Hands-on Large Language Models by Jay Alammar and Maarten Grootendorst](https://www.llm-book.com/) October, 2024
+
+
+[Designing Machine Learning Systems by Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) June, 2022
+MLOps questions are also LLMOps questions.
 
 ## Courses
 
+[Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/)
+
+[Educational Resources - Parlance](https://parlance-labs.com/education/)
+
+[Langchain Academy](https://academy.langchain.com/)
+
+[Build With LLMs: AI Engineering Patterns for Scrappy Developers](https://maven.com/leverage-ai/idea-to-deploy)
+
+[The AI Engineering Bootcamp](https://maven.com/aimakerspace/ai-eng-bootcamp)
+
 ## Prompt Engineering
+
+### Resources
+
+[Prompting Fundamentals and How to Apply Them Effectively](https://eugeneyan.com/writing/prompting/)
+Short but comprehensive review by Eugene Yan, must-read.
+
+[Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+Short but comprehensive review by Lilian Weng, must-read.
+
+[Prompt Engineering Guide by dair.ai](https://github.com/dair-ai/Prompt-Engineering-Guide)
+Extensive resource on prompt engineering.
+
+[Prompt Engineering - OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
+
+### Courses
 
 ## RAG & Information Retrieval
 
